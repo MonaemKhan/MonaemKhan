@@ -1,7 +1,4 @@
 ### Hi there 👋
-![Monaem's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonaemKhan&theme=dark&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonaemKhan)](https://github.com/MonaemKhan/github-readme-stats)
 <!--
 **MonaemKhan/MonaemKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
