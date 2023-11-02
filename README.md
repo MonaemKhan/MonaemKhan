@@ -28,11 +28,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-- 🔭 I’m currently working on [Inventory Management System (Full Stack Web Application Development Project)]()
- ### 🛠 Use to Build This Project
+## 🔭 I’m currently working on [Bank Inventory Management System (Full Stack Web Application Development Project)]()
+ ##### 🛠 Use to Build This Project
 - Language - C#
-- Frontend Framework - Dot NET Core MVC (6.0)
-- Backend Framework - Dot NET Core API (6.0)
+- Frontend Framework - Reactjs Library and Nextjs Framework
+- Backend Framework - Dot NET Core API (8.0)
 - Database - MS SQL Server
 - Design - HTML5, CSS3 and JavaScript
 
@@ -111,7 +111,14 @@
 </p>
 
 
+## <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+<a href = 'https://www.linkedin.com/in/m-a-monaem-khan-26919b146/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://monaemkhan.github.io/M.A.MonaemKhan/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://www.github.com/MonaemKhan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 
 
 
+Credit: [M.A. Monaem Khan](https://github.com/MonaemKhan)
+Last Edited on: 02/11/2023
