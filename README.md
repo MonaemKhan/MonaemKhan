@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=600&size=25&duration=5000&pause=500&color=C2F791&background=000000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=230&lines=Hi+%F0%9F%91%8B%2C+I+am+M.A.+Monaem+Khan;Computer+Science+and+Engineering+Student;Love+to+Learn+New+Stuffs+.+.+.+.;Currently+Learning+Back-End+Development+Using+ASP+.NET;Good+at+Front-End+Development+.+.+.+.;Passionate+about+Programming+.+.+.+.+.)](https://git.io/typing-svg)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MonaemKhan&label=Profile%20views&color=0e75b6&style=flat" alt="MonaemKhan" /> </p>
 
@@ -20,7 +20,7 @@
 
 - Playing Video game and Reading Article at Spare Time
 
-- Currently Learning Full Stack Web Development
+- Currently Learning Full Stack Web Development Using ASP DOT NET COR WEB API and ASP DOT NET COR MVC
 
 - Personal Porfolio [Link](https://monaemkhan.github.io/M.A.MonaemKhan/)	
 </div>
@@ -28,13 +28,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🔭 I’m currently working on [Bank Inventory Management System (Full Stack Web Application Development Project)]()
+## 🔭 I’m currently working on [Leads BankUltimus Project (in Rajshahi Krishi Unnoyon Bank {RAKUB}) (Give Support, Solution and Web Application Development As per client Request)]()
  ##### 🛠 Use to Build This Project
 - Language - C#
-- Frontend Framework - Reactjs Library and Nextjs Framework
-- Backend Framework - Dot NET Core API (8.0)
-- Database - MS SQL Server
-- Design - HTML5, CSS3 and JavaScript
+- Framework - Dot Net Web Form
+- Database - PLSQL
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
