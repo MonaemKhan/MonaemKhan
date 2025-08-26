@@ -14,13 +14,13 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- Completed B.Sc in CSE from Rangamati Science and Technology University
+- Completed B.Sc in CSE from Rangamati Science and Technology University (CGPA 3.41 out of 4.00)
 
 - A passionate Person about Progrmming and a Self-taught Front-end developer and Back-end developer
 
 - Playing Video game and Reading Article at Spare Time
 
-- Currently Learning Full Stack Web Development Using ASP DOT NET COR WEB API and ASP DOT NET COR MVC
+- Currently Learning Full Stack Web Development Using ASP DOT NET COR WEB API, Java Sprint Boot and Angular
 
 - Personal Porfolio [Link](https://monaemkhan.github.io/M.A.MonaemKhan/)	
 </div>
@@ -28,7 +28,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🔭 I’m currently working on [Leads BankUltimus Project (in Rajshahi Krishi Unnoyon Bank {RAKUB}) (Give Support, Solution and Web Application Development As per client Request)]()
+## 🔭 I’m currently working on [Leads BankUltimus Project (in Leads Head Office) (Give Support, Solution and Web Application Development As per client Request)]()
  ##### 🛠 Use to Build This Project
 - Language - C#
 - Framework - Dot Net Web Form
